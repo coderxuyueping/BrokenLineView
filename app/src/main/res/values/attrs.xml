@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BrokenLineView">
+        <attr name="lineColor" format="color|reference" />
+        <attr name="xColor" format="color|reference" />
+        <attr name="textColor" format="color|reference" />
+        <attr name="x_space" format="integer|reference" />
+        <attr name="y_space" format="integer|reference" />
+    </declare-styleable>
+</resources>
